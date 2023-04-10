@@ -31,3 +31,14 @@ The project does not have any significant functional or non-functional dependenc
 <h4>Data set used in support of your project</h4>
 
 The project does not use any specific data set. However, the Open Hardware Monitor software provides real-time data about the hardware components, which can be used for analysis and monitoring.
+
+***
+<h3>Step-by-step process to do this project!</h3>
+<p> step-by-step process to demonstrate how to use Open Hardware Monitor to display detailed information on various components and share/export the results:
+
+Download and install Open Hardware Monitor from its official website.
+Launch the software and you will see a real-time display of various components such as CPU, GPU, RAM, motherboard, etc.
+To get more detailed information on a specific component, click on its name or icon. For example, if you click on the CPU icon, you will see information such as its temperature, clock speed, voltage, etc.
+To share the results via the web, go to the "File" menu and select "Save Report". Choose the format in which you want to save the report (e.g., HTML), and then choose the location where you want to save it. Once the report is saved, you can upload it to a web server or share it via email, messaging apps, or other file-sharing platforms.
+To export the results to a file, go to the "File" menu and select "Save CSV report". Choose the location where you want to save the file and give it a name. The exported file will contain detailed information on various components in a CSV format, which can be easily analyzed in spreadsheet software such as Microsoft Excel or Google Sheets.
+By following these steps, you can use Open Hardware Monitor to display detailed information on various system components and share/export the results in a web-friendly and easily analyzable format.</p>
