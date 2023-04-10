@@ -3,6 +3,7 @@
 ___
 <h3>What needs to be done! | Objective </h3>
 <p>This project topic demands me to explore an open-source software that can display detailed information about various components of a system. The software should be capable of sharing the results via the web and exporting them to a file. I have chosen <b>Open Hardware Monitor </b>software for this purpose. I need to demonstrate how this software can provide detailed information about hardware components such as CPU, GPU, RAM, motherboard, etc. and how this information can be shared and exported for analysis.</p>
+<img src="Pro1.png" alt="Open Hardware Monitor">
 ___
 <h3>Scope of the project.</h3>
 <p>Explore open source software that can display detailed information about system components
