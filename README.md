@@ -29,4 +29,5 @@ The project assumes that the Open Hardware Monitor software will work as intende
 The project does not have any significant functional or non-functional dependencies.
 
 <h4>Data set used in support of your project</h4>
+
 The project does not use any specific data set. However, the Open Hardware Monitor software provides real-time data about the hardware components, which can be used for analysis and monitoring.
